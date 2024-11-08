@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8529765cf5fe16e408a323b504150da5, type: 3}
+  m_Name: Hi
+  m_EditorClassIdentifier: 
+  characterName: 
+  life: 10
+  attack: 10
+  defense: 10
+  speed: 10
+  intelligence: 10
+  type: Attacker
+  element: Earth
+  bodySample: {fileID: 528612079, guid: 3b30d1ab37125ce4aa130bd6f75020d8, type: 3}
+  handLeftSample: {fileID: -641973105, guid: 3b30d1ab37125ce4aa130bd6f75020d8, type: 3}
+  handRightSample: {fileID: 1554473, guid: 3b30d1ab37125ce4aa130bd6f75020d8, type: 3}
+  animatorHandLeft: {fileID: 22100000, guid: b8333ac042ea6f940943cfce00245add, type: 2}
+  animatorHandRight: {fileID: 22100000, guid: 389d1c820c357a447b0f96ff8ce20b66, type: 2}
+  animatorBody: {fileID: 22100000, guid: 97cba8700054dbe499793bd65192a4ee, type: 2}
+  skillConfigs:
+  - {fileID: 11400000, guid: 6e29683c1c63f604e99aea5eb08987d8, type: 2}
+  - {fileID: 11400000, guid: b8141916702994e43a18e09fe23a6414, type: 2}
+  - {fileID: 11400000, guid: 8f6a6d0195a280a4a88e58b26b28d215, type: 2}
+  - {fileID: 11400000, guid: bf9ad372cb1cfa944b999134048b167a, type: 2}
+  animationDatas:
+  - name: Attack_1
+    clip: {fileID: 7400000, guid: 2ade99de868e9c542a3f083a5a6c5d76, type: 2}
+  - name: Attack_2
+    clip: {fileID: 7400000, guid: 2ade99de868e9c542a3f083a5a6c5d76, type: 2}
+  - name: Attack_3
+    clip: {fileID: 7400000, guid: 2ade99de868e9c542a3f083a5a6c5d76, type: 2}
+  - name: Attack_4
+    clip: {fileID: 7400000, guid: 2ade99de868e9c542a3f083a5a6c5d76, type: 2}
+  - name: Damage
+    clip: {fileID: 7400000, guid: efd81333f9dabbf4197ac7062a0ac89e, type: 2}
+  - name: Dead
+    clip: {fileID: 7400000, guid: 9db745598e8fb48469256a7e8154648c, type: 2}

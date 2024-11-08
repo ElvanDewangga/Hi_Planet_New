@@ -1,0 +1,4 @@
+Number;Name_Card;Type;Card_Effect_1;Code_Effect_1;Card_Effect_2;Code_Effect_2;Card_Effect_3;Code_Effect_3
+6;Bear_Trap;Counter;When your opponent is spirit card attacks and the Atk is 1000 or less, destroy that card.;:Syarat((Get_Spirit_Card_When_Enemy_Attack, 1), (Attack_Less, 1000)):Effect((Destroy_Card, None));;;;
+7;Castle_Wall;Normal;Target 1 spirit monster your control, that target gains 500 Def.;:Syarat((Target_Your_Face_Up_Spirit_Card, 1)):Effect((Defense, 500));;;;
+8;Seven_Tools_Of_Bandit;Counter;When curse card is actived, you can active this card to negate to activition and destroy it.;:Syarat((Get_Curse_Card_Active, 1)):Effect((Negate_And_Destroy, None));;;;

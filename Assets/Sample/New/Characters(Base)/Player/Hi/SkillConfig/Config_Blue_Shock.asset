@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa5d5e787a502147b91da4cc406390f, type: 3}
+  m_Name: Config_Blue_Shock
+  m_EditorClassIdentifier: 
+  Base_Duration: 5
+  objectsWithDelay:
+  - gameObject: {fileID: 937147146390918051, guid: 94f616b7269e7d4448954ccd24f50db5,
+      type: 3}
+    delayTime: 0
+    V3_Scale: {x: 5, y: 5, z: 5}
+    V3_Offset_Vfx: {x: 0, y: 0, z: 0}
+    V3_Fix_Position: {x: 0, y: 0, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 0}
+    Vfx_Time: 0

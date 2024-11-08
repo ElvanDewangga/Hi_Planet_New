@@ -1,0 +1,3 @@
+Number;Name_Card;Type;Card_Effect_1;Code_Effect_1;Card_Effect_2;Code_Effect_2;Card_Effect_3;Code_Effect_3
+4;Rising_Air_Current;Normal;Target 1 wind spirit monster your control, that gains 800 Atk;:Syarat((Element, Wind), (Target_your_Spirit_Card, 1)):Effect((Attack, 800));;;;
+5;Hero_Spirit;Normal;All of your face up spirit monster gains 300 Atk;:Syarat((Target_Your_All_Face_Up_Spirit_Card, None)):Effect((Attack, 300),(Defense, 500));;;;

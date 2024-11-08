@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Ura_Animator_Hand_Left
+  m_Controller: {fileID: 9100000, guid: d535f98141958724592353f6191653b9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 91af421c202ed1e4eac66260ecf1b274, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 60a382720f27548429df6dd13d1f8910, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 15c30310749647e42a040a31204e0a4e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: d6cbbd6247ee8094a9b9cd89a8d344dd, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 32d47cab0107427408e1f3f1058960c3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a050948e225393a4c9d5be94b818a568, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: f13f749e000f94446a357ba6aabe1f97, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a882ba86120a9af4aaeea8be01f02f7f, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: fc3424424999a0549993a35c09b3490a, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: a882ba86120a9af4aaeea8be01f02f7f, type: 2}

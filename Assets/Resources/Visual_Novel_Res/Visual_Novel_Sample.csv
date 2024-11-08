@@ -1,0 +1,4 @@
+Number;Name_Card;Attack;Defense;Attribute;Soul;Extra_Card;Card_Effect_1;Code_Effect_1;Card_Effect_2;Code_Effect_2;Card_Effect_3;Code_Effect_3
+1;Spirit_Warrior;800;500;Ice;2;;None;;;;;
+2;Frozen_Edge;1000;2000;Fire;3;;When this card is normal summoned Draw 1 Card. ;:Syarat((This_Normal_Summon, None)):Effect((Draw_Card, 1));If this card destroy enemy spirit, this card gain 300 Atk.;:Syarat((Destroy_Enemy_Spirit_With_Attack, None)):Effect((Attack, 300));;
+3;Stellar_Knight_-_Alpha;2500;2000;Light;6;Boss_Spirit;If this card destroy enemy spirit, this card gain 800 Atk.;:Syarat((Destroy_Enemy_Spirit_With_Attack, None)):Effect((Attack, 800));;;;

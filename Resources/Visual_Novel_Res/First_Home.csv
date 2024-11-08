@@ -1,0 +1,14 @@
+Name_Char;Dialog;Char_Event;System_Event_1;System_Event_2;;;;
+Player_Caretaker;I dreamt of how I met Player_Child. Five year has passed, and Player_Child has turned 5. I think it’s time for her to meet other people, go to school, and make friends outside.;;:Set_Background(Bg_Black,0);;;;;
+x;;;:Close_Visual_Novel(x,x);;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;
+;;;;;;;;

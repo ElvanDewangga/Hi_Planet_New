@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 085329e185addde4bafd9cd4410cdb7c, type: 3}
+  m_Name: High_Voltage_Currents_3
+  m_EditorClassIdentifier: 
+  _Position_Target: 0
+  Start_Position: {x: 0, y: 0, z: 0}
+  Start_Rotation: {x: 0, y: 0, z: 0}
+  Start_Scale: {x: 2, y: 2, z: 2}
+  End_Scale: {x: 0, y: 0, z: 0}
+  Speed_Scale: 0
+  Start_Intensity: 0
+  End_Intensity: 4
+  Speed_Intensity: 40
+  b_Ping_Pong: 1
+  b_Loop: 0
+  Start_Light_Type: 1
+  Start_Fall_Off: 10
+  Start_Fall_Off_Strength: 0.65
+  Start_Color: {r: 0.63529414, g: 0.07058823, b: 0.61923635, a: 1}
+  Start_Spot_OuterRadius: 5
+  Start_Spot_InnerRadius: 2
+  Start_Spot_Angle_Inner: 30
+  Start_Spot_Angle_Outer: 30

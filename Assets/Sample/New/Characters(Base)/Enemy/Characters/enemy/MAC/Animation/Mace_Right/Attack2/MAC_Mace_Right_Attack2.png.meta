@@ -1,0 +1,5433 @@
+fileFormatVersion: 2
+guid: bd27690374b5dfc478c5941fec0211e5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_0
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff72df77cbf7df4789ccd737cdebb69
+      internalID: 2064759242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a685d7df5ba4b418cb43f8790f0446
+      internalID: 1117521785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abd934353ac9e743bb7a6dccf140e25
+      internalID: -1715673357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_3
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3428fa549351b4893aea958c25e186
+      internalID: -2076864315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_4
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b8d2c36cc352546975028ff7d085b0
+      internalID: -2038956951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_5
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a54801875a34de40bb2f4f0f75a8d09
+      internalID: -1727074715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_6
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3211342fe41dce241a2b8423e7fadbb7
+      internalID: 922254394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_7
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1681
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906c56e36b5d50f41bad52c39e7e7d01
+      internalID: -462977097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_8
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1679
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5bbf1d120dc6b4a88bfffa74aad9e7
+      internalID: 1242176371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_9
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1679
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0db1ea736e645e488fc8868c9bba0ea
+      internalID: -51345928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_10
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1679
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9e7a8bc5da05043bb67bb3377e8a95
+      internalID: -216259008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_11
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1679
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92b7b629d1a584a951cb738007cc24
+      internalID: -1763353700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_12
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1679
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30e934112d7c7547966e06e680b183f
+      internalID: 1798455519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_13
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1679
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90b9ba7b0d6014abe5bb220bd922c6
+      internalID: -1871250476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_14
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1679
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a957c377e49af594c80825626cc36722
+      internalID: 2116160294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_15
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1679
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bbad04e832e204e973dc87f9862ddc
+      internalID: 254730007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_16
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24ba0920718de4fa10dbfe327000aa
+      internalID: -101967925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_17
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57c9a4a7a16e9d42bcfdc2f28e94854
+      internalID: -842512804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_18
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d1fbf82546eda48a9c7f7ccc0a17c1
+      internalID: -128393800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bdbbda8c31bdf4ebc8a0076589310e
+      internalID: 1913030288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_20
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a27d6cf94db31b459c43bcacb5e42a0
+      internalID: 903553348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_21
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d317918c0b98713419059b08c8fff44d
+      internalID: 239228088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_22
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1563
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c00841ab68c924584b45156dc9e1ec
+      internalID: -964667302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_23
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1563
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750d442888dcd0c4fb68083e2c096a6f
+      internalID: 2031250458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_24
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1564
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7258e8cf39d08c3499f73d8cb5ba89eb
+      internalID: 67202758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_25
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1563
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77220253c032534188cb65e1144891a
+      internalID: -1646908943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_26
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1563
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e38d9d22a6c1124183f541d15693bf7
+      internalID: 1038995889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_27
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1564
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5871615615cd6e4e904ed5d24e04827
+      internalID: 159753918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_28
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1564
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd73c4e28b15c9b4fb5aa6e92de3128b
+      internalID: -1628946650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_29
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1563
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc233c8017c3e2489b94ad7371494c8
+      internalID: 1255070353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_30
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 1564
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eba23bb99a3e614ba4b481a7d18896a
+      internalID: -855350707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_31
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1564
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4688d48c0b6ff94ab3c06ed01da9cda
+      internalID: -1921049806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_32
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e3f3a1f3ea73142b6c7ea7e9ef6cf2
+      internalID: 1635627046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_33
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b4babc6ceaccf4296cbd471dc2b663
+      internalID: -1833648775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_34
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35feceea2e6dff04eb2c5db9e9c12d65
+      internalID: 1326315197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_35
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf18d1911d962a4890c04064ad53046
+      internalID: 1162755554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_36
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0066e04d2cab2442a783ea7b957c27f
+      internalID: 1483004232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_37
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95179bfb810cb0947b840b67a0dbad2c
+      internalID: -871741700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_38
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 1449
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e4905982c851a458ee45a4d1f7a7ac
+      internalID: -1371584907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_39
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1449
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8b83febcf87444583b4acccfb5bc04
+      internalID: 1232377494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_40
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc55441c08743a1438d1e3851213549b
+      internalID: -124503435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_41
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1448
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489bad096e69aaf42b855fcc9b89c636
+      internalID: 687783169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_42
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1449
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba8c34e62e6279439d0103af43f33b0
+      internalID: 1178625007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_43
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1449
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3efbc97c39efeb4fb02db20aaf80302
+      internalID: -1859168660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_44
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 1448
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4f64e723b080343bab86243085d933
+      internalID: -876495103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_45
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 1448
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9de8a3fa5af444b3433ccb7beed38
+      internalID: 531721919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_46
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 1448
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5578315ab142346ade414b7127d6ac
+      internalID: -776204967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_47
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1448
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c0c589a82015049af14335c3d0dd0d
+      internalID: -1868464100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_48
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1333
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1942ba5dd83ab14b9ff70f19407a1f3
+      internalID: -917652800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_49
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1333
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9ccb09ea020d43b0db65bab0f7064
+      internalID: -1810415496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_50
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1332
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41b1d8f41304084fa216b9141872c1c
+      internalID: 2101406180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_51
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1332
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e0d5fa6a05994a87d3ecda80dcf9a
+      internalID: 503803957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_52
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1333
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815fa96651f79da43abe84f88d689436
+      internalID: 487450554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_53
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1332
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017a4914da7c1204fb7b3a279c9d042d
+      internalID: -1676480025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_54
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1332
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6cfe3e5cd049f4499e41d2416b74f04
+      internalID: -82502583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_55
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1333
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ae10ec8efeb7d40b8b007e30c10714
+      internalID: 1595223190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_56
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 1332
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e1de5e0195df842a5b0e050aecf900
+      internalID: 1537464086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_57
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 1333
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90de5c3c4787d2b44b99be53c59a6f8e
+      internalID: -1639280455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_58
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1332
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33e42fbc6a8ab44f9b6067135d8e2d9
+      internalID: -488006496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_59
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 1332
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2268c8c4641a5443b1de430e876a944
+      internalID: -1431449406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_60
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1332
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a39ae1b4dc119b448044a777c07eae8
+      internalID: -705426003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_61
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1333
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbaa65a2b0cd07b4e8b415a0b8201f58
+      internalID: -491978278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_62
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1333
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9617af2754fa4344aba926c315d912aa
+      internalID: -1254398285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_63
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1333
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42215e6b84b52d49b5804e885ac200c
+      internalID: 2113489471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_64
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1218
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9467748f9990d4da45b59d13a2db30
+      internalID: 619447831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_65
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1217
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f15544ac59dd0d479c15cdfa1ee3c05
+      internalID: 1892446352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_66
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1218
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e85d6bfad1d4cd4b9201906706c0e09
+      internalID: 1192130899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_67
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1218
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692764dc3ea5b5a479a811d0cd7a5157
+      internalID: 521910314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_68
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1218
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9849a6c0c07e141aabff95b567d71d
+      internalID: -17504399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_69
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1217
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9ae819a42dae54b9641e1e2a45fb9a
+      internalID: 1565880791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_70
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1217
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e721ca58496dd2d468de55c982c5a12e
+      internalID: 586319732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_71
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1217
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180ecb64b35c5344a8c34569322971c
+      internalID: -179949700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_72
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1218
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcb4e552436e12409646a748cacd9a6
+      internalID: 1383732476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_73
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1218
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7bcd30cb3f20249a62d65aadc0f514
+      internalID: 13006257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_74
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 1217
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a35bd0d550954b97b937c62a96376
+      internalID: -2106035752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_75
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1217
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1701840e9d950b42981c6a10b9c7454
+      internalID: 239668552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_76
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 1217
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dd666dee2c9e24888b1aa19d34ac6f
+      internalID: 1342641495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_77
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 1217
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2ed7c01ebf0a544842e5f675e3f00b
+      internalID: -1712274533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_78
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1216
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c287f2de86778d94583161569e9ef6d5
+      internalID: -1087370076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_79
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1216
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c830257e52482d4d9c3d69328aaf4e3
+      internalID: 1329882824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_80
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1101
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb0a3d2a30d04c44a7862a47e4d3d73
+      internalID: 1691558292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1099
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1354007c379ea45982578be79dd912
+      internalID: 1933997047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_82
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1099
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ebe6d0a6f319b4aaab15b76421ae01
+      internalID: 1664176258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_83
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1101
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c3512b8648f34fafac29bccb96780
+      internalID: -786504811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_84
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1101
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b963a15b0e1544aa0765891acdbd10
+      internalID: -902049855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_85
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1098
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef853362490ff4409f0682405a09a00
+      internalID: 1266501268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_86
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1099
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d066afacbd0c0449295d951855bb70
+      internalID: 677183994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_87
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 1101
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337b9913b6b2c854286282a882d7203f
+      internalID: 2135483230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_88
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1101
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8d51e14e2f2c3d449a72149e0bde322
+      internalID: -1859729230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_89
+      rect:
+        serializedVersion: 2
+        x: 1539
+        y: 1099
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712d7a53f0705f4dbc3357b0b52018e
+      internalID: 1413801088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_90
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 1101
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4b79e7d769b9a40b3cf23b178bfccc
+      internalID: -995620520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_91
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 1101
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0492495eec319143a409b64602596ab
+      internalID: -857455644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_92
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 1099
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f287e6cb5c353604789594f2d13c989a
+      internalID: -1871066680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_93
+      rect:
+        serializedVersion: 2
+        x: 2179
+        y: 1099
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f6c47eaa433b546a791f9ce56b9a31
+      internalID: -72208673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_94
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 1102
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26cd2fb556937845bc5f368e7306330
+      internalID: 2080204180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_95
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 1102
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea3b6cebffd2c564180b5564ca4c3f32
+      internalID: 1561892776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_96
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 984
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e59532a375c67343b75aec9a25b7093
+      internalID: 1494978459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_97
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 984
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2570df4f2b581bb4f9157d5e71282763
+      internalID: -1093902996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 986
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508b3683b893d7845af86524b27d27b4
+      internalID: 164124048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_99
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 986
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598aba0be40ba2e4b9054cf92934efb6
+      internalID: -2705478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_100
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 984
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e4440b06b309b4fbbe7930ce82ee6d
+      internalID: 816808040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_101
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 984
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac52ac5ffb11c240abe53a298aba2f9
+      internalID: 685940053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_102
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 986
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407dbb00669c40245b87c06fff668206
+      internalID: -2014494868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_103
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 986
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e1030e1e61a8946ad69765ec651aae
+      internalID: 1037085333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_104
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 984
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb321f5ec42abde47bdfb00bc6895125
+      internalID: -1071625283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_105
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 984
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4866d62102eb2e5418572eae299ecb7c
+      internalID: 1543875155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_106
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 983
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0e8f65158adf944900a2e59422db60
+      internalID: -1387101583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_107
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 983
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041412e40e6c98643b09a94f629928d4
+      internalID: -444462895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_108
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 984
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045c0c3aa7a42b448c5df04e80d4279
+      internalID: 1987163232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_109
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 986
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42577d779408d1498b5bae00f1c91ff
+      internalID: 1228384648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_110
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 984
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f44f4f10952c2f40845a083fa633b8c
+      internalID: 927317286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_111
+      rect:
+        serializedVersion: 2
+        x: 2501
+        y: 983
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7511446b502434940a60701233e7ce75
+      internalID: -2034160627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_112
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 868
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef9b82e0bb43cb478578d222f1542ea
+      internalID: 1235704813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_113
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 868
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f41f3c41868cc145bc94fe34aab0394
+      internalID: -1051673962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_114
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 868
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba67e1aa83e3fed4ea64af6d2b26fab8
+      internalID: 112009075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_115
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 868
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f656a05152ebd49b37ab5f7fd053e2
+      internalID: -1669353683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_116
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 868
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0de3be05d88894e8f4f799f6429723
+      internalID: -680292311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_117
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 868
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5ca24f17cb9484792922c4b3615fe2
+      internalID: -1343428783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_118
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 868
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b81ac4801163eb4409be431162131cfd
+      internalID: -1650008648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_119
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 868
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92981678e7f870f4ab3ea6cd45f37b91
+      internalID: -767914747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_120
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 868
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77776e50d1d87b545ad61714ea538110
+      internalID: -1981528111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_121
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 868
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243db3b10b3c43842b3f41a7a9c9eea5
+      internalID: 101547914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_122
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 868
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d474be369abf04e4d98dd768380a7215
+      internalID: 1955585722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_123
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 868
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d23c1ae52bef9349a13ce32cdff704d
+      internalID: -145781701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_124
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 868
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b38a6928d4e67498727e82aac78095
+      internalID: -434202725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_125
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 871
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f64376381bacff4eb3d3736f433fe74
+      internalID: 229172252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_126
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 868
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34dcd226af8cff42af63306e03a4a46
+      internalID: 600546421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_127
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 868
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d98a5109e7498e488f8552da2424ee1
+      internalID: -288288582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_128
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 753
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2435bc0a61c4cfa43b787d165cc6ff22
+      internalID: 1200607718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_129
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 753
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2d4c2dffd8e584d9aa37ec55a70f3c
+      internalID: -354681147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_130
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 753
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc38692742f9134093575c011fb2558
+      internalID: -1874184216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_131
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 753
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e57e774d5aec249a6e63bbd53c9f46
+      internalID: -1538977655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_132
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 753
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a747f9ca4da6064390c63909b8789b3
+      internalID: 623637032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_133
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 754
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df2e3873872ba42b87cc73258136b0
+      internalID: 620588871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_134
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 753
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75cd434702eee847bde3f721ddbce82
+      internalID: -1053340558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_135
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 753
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d72b4ccb81b1884c8e955175d95d0eb
+      internalID: -1915957686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_136
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 753
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60306ef993602d748a577f55234d47c0
+      internalID: -1467971211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_137
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 752
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8376f0b4f546eb14da71a41a7b3fa843
+      internalID: -1762869815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_138
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 752
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cdab489a8c5644ca3c6b4cf0965dee
+      internalID: -1766024881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_139
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 753
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc60d5adbfa91d4b80b201d7b401e41
+      internalID: -1042072424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_140
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 753
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf1e16d9229bc242976db3c6d65a27a
+      internalID: 794669430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_141
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 752
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a926607a666804982dbfb27c3567ae
+      internalID: -1300314477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_142
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 752
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db30db94751587145937864c16fdc4c6
+      internalID: -1884033818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_143
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 752
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4b6eb424c301540ab2d0f1111a1df0
+      internalID: 780391082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_144
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 634
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc8ee3fa1fc97d40a1f5ffe0063fe0b
+      internalID: -1898878712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_145
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 637
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74144485b6e844946b3ef927eb92061d
+      internalID: 439225328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_146
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 637
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a8a4920f067d43a54841e86d8eb28
+      internalID: 682406528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_147
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 636
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44abfe0108a6f10418934673df8f014f
+      internalID: 609165788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_148
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 637
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8489ce92a62a5b44ad56e536369b6c4
+      internalID: -2065647742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_149
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 636
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a2c42b1bf730649b917d11fbde82e4
+      internalID: 761541574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_150
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 636
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e57420fca08e14b961f54f2c6a5163
+      internalID: -1052082825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_151
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 636
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f287db3967643a419c27bf018398c26
+      internalID: 1595262922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_152
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 637
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1182cc0a91b5d444b13589c67c71c70
+      internalID: -2033950777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_153
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 638
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9ceaaa20b2cbb44af9386d2caa0760
+      internalID: -1390788760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_154
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 638
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3780b612c638444d9e9c990eac6d616
+      internalID: 1244549940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_155
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 637
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73f4fb0f893c6e48a6ae6607bbf3840
+      internalID: -1339032887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_156
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 637
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065e78bd529081a489e23b931e97bc55
+      internalID: -639998940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_157
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 638
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe34a38311254847b823adeaac005f0
+      internalID: -16264712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_158
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 638
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf71c3e5f9c74d4881e8f464de91ba3
+      internalID: 66963430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_159
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 637
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e506ce9120bccb489c4bddf546aefbf
+      internalID: 1293572500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_160
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 521
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e149f39fa8500654693fb886f6893539
+      internalID: -45285907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_161
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 521
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5f78360a7ab36498fb1a3087b56b15
+      internalID: -1513609754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_162
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52e2716d0753d1c46b56103096cb2230
+      internalID: 40271110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_163
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 523
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c52fb0d44b674b8b9d3ecbdbbec88
+      internalID: -63091021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_164
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 522
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264187d26eaa2fa44ab1fc347e694710
+      internalID: -450962481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_165
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 521
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f143393aee19f041a204ca7c79b54ac
+      internalID: 39604509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_166
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 521
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 833c81d30e385ac4c870591b5a0c1035
+      internalID: -253197855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_167
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 521
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b391edc86f0bef438588dc65153e847
+      internalID: 1009041407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_168
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 519
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ea5bb10393f824d8a46d2a9832c189
+      internalID: 34627897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_169
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 519
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804fc4b325d57ae4c8a751b621b1fb09
+      internalID: -1827135372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_170
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 521
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afa32b5ec953d749908697b6168fc85
+      internalID: 529792499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_171
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 519
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8350b740e37101542aa997c09e477806
+      internalID: 1184730229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_172
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 519
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb5eee7e4140324c82a91cedebe5ca1
+      internalID: 921392194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_173
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 519
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6225273f4f4af734899145121cbb4f52
+      internalID: 351882627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_174
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 521
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab6cd63b80a7214881b54e3fcddc73a
+      internalID: 1226860210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_175
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 519
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb402b1a3f3177a4c971d2c2990dc118
+      internalID: -607494859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_176
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3acd274dcb930f4c995e861f2597e56
+      internalID: 1427748300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_177
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 404
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e8056902c8e0b4b9e9963f3c27438c
+      internalID: 601139844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_178
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 404
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4805044d9e73fe4e965113fbd2a2384
+      internalID: -194754689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_179
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 403
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbfa0945c69d4f4a9c490fdc649238f
+      internalID: -1668374700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_180
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 403
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec261b78fa1a67d4ab789c0304977ed6
+      internalID: 1861574131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_181
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 404
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b896ce63f6349c64587296b7e4671ca8
+      internalID: -1620533649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_182
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 403
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247a9ac2ee957f44499851e88363a3d5
+      internalID: -2022176568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_183
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 403
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eddb11a4b9f45489dc9a904796c36b
+      internalID: 734899778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_184
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 404
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4e74057ff37314883299d04742c49d
+      internalID: -366448128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_185
+      rect:
+        serializedVersion: 2
+        x: 1541
+        y: 407
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a585deb1f5b025240a3fc885f74ccbaf
+      internalID: 359533386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_186
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 404
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b941ca4ccf9e5f34b807018af01b3a23
+      internalID: 1046874067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_187
+      rect:
+        serializedVersion: 2
+        x: 1859
+        y: 404
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a998192380ba0c4fa1eb3a64e6883ab
+      internalID: 2011379216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_188
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 406
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff33db2987ce384688004bcf00bdde5
+      internalID: -801968553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_189
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 406
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473f63923d000b247a9f8b1e097fd73d
+      internalID: 133805164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_190
+      rect:
+        serializedVersion: 2
+        x: 2339
+        y: 404
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f2bc268262f4841aff8aae94b4ff73
+      internalID: 957004682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_191
+      rect:
+        serializedVersion: 2
+        x: 2499
+        y: 404
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35c8919986f5248b4c8bf76b1e899b
+      internalID: -1297200382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_192
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 288
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9c9166e54cd1b4d8d38c29fecb79f5
+      internalID: 743922330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_193
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 291
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a739b69559c3c5429f62af8c68ba259
+      internalID: -1290273153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_194
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 288
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43b37f57e50a694fb692148eea79d6b
+      internalID: -476910683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_195
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 288
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97646fa8febeb4e489b92dcb22747ca7
+      internalID: -2134011472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_196
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 288
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e4ee974a967784cb8a08b249455446
+      internalID: 103250983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_197
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 288
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a769b2a90b07414aa66103ffff12d95
+      internalID: 1299213081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_198
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 288
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fc007ec860d8d4aba0ccfdd62be2f8
+      internalID: 2054201352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_199
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 288
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925b0dbeea06a5a4db67f84b7d9389e6
+      internalID: 945675277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_200
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 288
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e02f425dcf1a9e48b2e9b7889f93031
+      internalID: -1523560411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_201
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 288
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ead227a5c335b342b88d1c5ecffff74
+      internalID: 244735668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_202
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 288
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82c21b9c82e7714a9a110cc94ec7565
+      internalID: 1537583371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_203
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 288
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c31acb58608d9a4c9aa1b50a55688a4
+      internalID: -2124303377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_204
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 289
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6581872a6d849854b9979f0dba933900
+      internalID: -1934287364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_205
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 289
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ecd70f12436e14e96dc9fecacc8e30
+      internalID: 1668745110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_206
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 289
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b766b61c9df5a664d81cd71679884233
+      internalID: -644618160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_207
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 289
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284b2905949a8624a82ae339dce55927
+      internalID: 1268888788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_208
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c23ed9c26dfd04d83cd57b95ad213c
+      internalID: 1242309351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_209
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870db944def853d429cca1b53a638995
+      internalID: -1342292188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_210
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff086d6fa93e0e14daddce11675625d2
+      internalID: -1726211602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_211
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3faaebc43354be2408c05e3a3a8aec78
+      internalID: 1936252839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_212
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 173
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45750d7e8b879374d9f0203fa8ac263d
+      internalID: -1019904233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_213
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 173
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f84ebcbbbc82ce42b9213b9bb4a708b
+      internalID: -211124833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_214
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43e08c7444d6b4087e5e2e0b4bc2c1
+      internalID: 634897457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_215
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d58ad546b9f7346ae04df028af8123
+      internalID: -2028080022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_216
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeb212451d7f774480635136e81ca34
+      internalID: -1283070994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_217
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f19c4e1c0189d4d81010963d920b84
+      internalID: 1080928528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_218
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e15ac63225d0d40b56ae192260e79b
+      internalID: -1755243764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_219
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fa19938deca0945baf19f52156f3ad
+      internalID: 991929411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_220
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21eac9d7411ea114c830b3f9fcb16fc5
+      internalID: -584569427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_221
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e238d1c067d645aa00db11c90a1fd
+      internalID: -1018487560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_222
+      rect:
+        serializedVersion: 2
+        x: 2343
+        y: 173
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12fff9358c08464f8ac9c7def14a05a
+      internalID: 459081708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_223
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 173
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e807b8c8d9d687f429360ee8a5387daf
+      internalID: -1302743741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_224
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f5d17bad95bfa4cab21c0a75d72826
+      internalID: 246164940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_225
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38477801cc054a549b8f60944ec47694
+      internalID: -2010019270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_226
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1181cac0a50b447a167b321b7be2f1
+      internalID: -1223796407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_227
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c6b42bf6d5cad4f8916abafb33f58b
+      internalID: 1041410021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_228
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611d326373476fe42b3461ab3723d689
+      internalID: -718268664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_229
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f6e233cc68b514cbec7103b68af451
+      internalID: 1506697202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_230
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ba60ea9fbea0748a6e94220e5ad420
+      internalID: -1980737562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_231
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5737e3bff29bd7b438fe62d1ae5f43a9
+      internalID: 560939499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_232
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898c590a450fa6041862ddada3ce1b5e
+      internalID: -2109995037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_233
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf54ceca655f0384784172c9775e6a1d
+      internalID: -127411546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_234
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4670ca4c9db7479385cdaa6e8551f
+      internalID: -1267810511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_235
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c969a548e6584d90e86e23106ad88
+      internalID: 514831528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_236
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca6367e7ea26b84dbbdaebdc84fe7f2
+      internalID: -2089319894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_237
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5e2cf8402fda4780ac46533a20cbc
+      internalID: 514757172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_238
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf5710cd9460ef4298129b52f13abe4
+      internalID: 444686874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Attack2_239
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 57
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5252808b11b7d342a3880d5d1347087
+      internalID: -212951178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 000ff8a54d7ccbd4baea6ffcf630be84
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MAC_Mace_Right_Attack2_0: 2064759242
+      MAC_Mace_Right_Attack2_1: 1117521785
+      MAC_Mace_Right_Attack2_10: -216259008
+      MAC_Mace_Right_Attack2_100: 816808040
+      MAC_Mace_Right_Attack2_101: 685940053
+      MAC_Mace_Right_Attack2_102: -2014494868
+      MAC_Mace_Right_Attack2_103: 1037085333
+      MAC_Mace_Right_Attack2_104: -1071625283
+      MAC_Mace_Right_Attack2_105: 1543875155
+      MAC_Mace_Right_Attack2_106: -1387101583
+      MAC_Mace_Right_Attack2_107: -444462895
+      MAC_Mace_Right_Attack2_108: 1987163232
+      MAC_Mace_Right_Attack2_109: 1228384648
+      MAC_Mace_Right_Attack2_11: -1763353700
+      MAC_Mace_Right_Attack2_110: 927317286
+      MAC_Mace_Right_Attack2_111: -2034160627
+      MAC_Mace_Right_Attack2_112: 1235704813
+      MAC_Mace_Right_Attack2_113: -1051673962
+      MAC_Mace_Right_Attack2_114: 112009075
+      MAC_Mace_Right_Attack2_115: -1669353683
+      MAC_Mace_Right_Attack2_116: -680292311
+      MAC_Mace_Right_Attack2_117: -1343428783
+      MAC_Mace_Right_Attack2_118: -1650008648
+      MAC_Mace_Right_Attack2_119: -767914747
+      MAC_Mace_Right_Attack2_12: 1798455519
+      MAC_Mace_Right_Attack2_120: -1981528111
+      MAC_Mace_Right_Attack2_121: 101547914
+      MAC_Mace_Right_Attack2_122: 1955585722
+      MAC_Mace_Right_Attack2_123: -145781701
+      MAC_Mace_Right_Attack2_124: -434202725
+      MAC_Mace_Right_Attack2_125: 229172252
+      MAC_Mace_Right_Attack2_126: 600546421
+      MAC_Mace_Right_Attack2_127: -288288582
+      MAC_Mace_Right_Attack2_128: 1200607718
+      MAC_Mace_Right_Attack2_129: -354681147
+      MAC_Mace_Right_Attack2_13: -1871250476
+      MAC_Mace_Right_Attack2_130: -1874184216
+      MAC_Mace_Right_Attack2_131: -1538977655
+      MAC_Mace_Right_Attack2_132: 623637032
+      MAC_Mace_Right_Attack2_133: 620588871
+      MAC_Mace_Right_Attack2_134: -1053340558
+      MAC_Mace_Right_Attack2_135: -1915957686
+      MAC_Mace_Right_Attack2_136: -1467971211
+      MAC_Mace_Right_Attack2_137: -1762869815
+      MAC_Mace_Right_Attack2_138: -1766024881
+      MAC_Mace_Right_Attack2_139: -1042072424
+      MAC_Mace_Right_Attack2_14: 2116160294
+      MAC_Mace_Right_Attack2_140: 794669430
+      MAC_Mace_Right_Attack2_141: -1300314477
+      MAC_Mace_Right_Attack2_142: -1884033818
+      MAC_Mace_Right_Attack2_143: 780391082
+      MAC_Mace_Right_Attack2_144: -1898878712
+      MAC_Mace_Right_Attack2_145: 439225328
+      MAC_Mace_Right_Attack2_146: 682406528
+      MAC_Mace_Right_Attack2_147: 609165788
+      MAC_Mace_Right_Attack2_148: -2065647742
+      MAC_Mace_Right_Attack2_149: 761541574
+      MAC_Mace_Right_Attack2_15: 254730007
+      MAC_Mace_Right_Attack2_150: -1052082825
+      MAC_Mace_Right_Attack2_151: 1595262922
+      MAC_Mace_Right_Attack2_152: -2033950777
+      MAC_Mace_Right_Attack2_153: -1390788760
+      MAC_Mace_Right_Attack2_154: 1244549940
+      MAC_Mace_Right_Attack2_155: -1339032887
+      MAC_Mace_Right_Attack2_156: -639998940
+      MAC_Mace_Right_Attack2_157: -16264712
+      MAC_Mace_Right_Attack2_158: 66963430
+      MAC_Mace_Right_Attack2_159: 1293572500
+      MAC_Mace_Right_Attack2_16: -101967925
+      MAC_Mace_Right_Attack2_160: -45285907
+      MAC_Mace_Right_Attack2_161: -1513609754
+      MAC_Mace_Right_Attack2_162: 40271110
+      MAC_Mace_Right_Attack2_163: -63091021
+      MAC_Mace_Right_Attack2_164: -450962481
+      MAC_Mace_Right_Attack2_165: 39604509
+      MAC_Mace_Right_Attack2_166: -253197855
+      MAC_Mace_Right_Attack2_167: 1009041407
+      MAC_Mace_Right_Attack2_168: 34627897
+      MAC_Mace_Right_Attack2_169: -1827135372
+      MAC_Mace_Right_Attack2_17: -842512804
+      MAC_Mace_Right_Attack2_170: 529792499
+      MAC_Mace_Right_Attack2_171: 1184730229
+      MAC_Mace_Right_Attack2_172: 921392194
+      MAC_Mace_Right_Attack2_173: 351882627
+      MAC_Mace_Right_Attack2_174: 1226860210
+      MAC_Mace_Right_Attack2_175: -607494859
+      MAC_Mace_Right_Attack2_176: 1427748300
+      MAC_Mace_Right_Attack2_177: 601139844
+      MAC_Mace_Right_Attack2_178: -194754689
+      MAC_Mace_Right_Attack2_179: -1668374700
+      MAC_Mace_Right_Attack2_18: -128393800
+      MAC_Mace_Right_Attack2_180: 1861574131
+      MAC_Mace_Right_Attack2_181: -1620533649
+      MAC_Mace_Right_Attack2_182: -2022176568
+      MAC_Mace_Right_Attack2_183: 734899778
+      MAC_Mace_Right_Attack2_184: -366448128
+      MAC_Mace_Right_Attack2_185: 359533386
+      MAC_Mace_Right_Attack2_186: 1046874067
+      MAC_Mace_Right_Attack2_187: 2011379216
+      MAC_Mace_Right_Attack2_188: -801968553
+      MAC_Mace_Right_Attack2_189: 133805164
+      MAC_Mace_Right_Attack2_19: 1913030288
+      MAC_Mace_Right_Attack2_190: 957004682
+      MAC_Mace_Right_Attack2_191: -1297200382
+      MAC_Mace_Right_Attack2_192: 743922330
+      MAC_Mace_Right_Attack2_193: -1290273153
+      MAC_Mace_Right_Attack2_194: -476910683
+      MAC_Mace_Right_Attack2_195: -2134011472
+      MAC_Mace_Right_Attack2_196: 103250983
+      MAC_Mace_Right_Attack2_197: 1299213081
+      MAC_Mace_Right_Attack2_198: 2054201352
+      MAC_Mace_Right_Attack2_199: 945675277
+      MAC_Mace_Right_Attack2_2: -1715673357
+      MAC_Mace_Right_Attack2_20: 903553348
+      MAC_Mace_Right_Attack2_200: -1523560411
+      MAC_Mace_Right_Attack2_201: 244735668
+      MAC_Mace_Right_Attack2_202: 1537583371
+      MAC_Mace_Right_Attack2_203: -2124303377
+      MAC_Mace_Right_Attack2_204: -1934287364
+      MAC_Mace_Right_Attack2_205: 1668745110
+      MAC_Mace_Right_Attack2_206: -644618160
+      MAC_Mace_Right_Attack2_207: 1268888788
+      MAC_Mace_Right_Attack2_208: 1242309351
+      MAC_Mace_Right_Attack2_209: -1342292188
+      MAC_Mace_Right_Attack2_21: 239228088
+      MAC_Mace_Right_Attack2_210: -1726211602
+      MAC_Mace_Right_Attack2_211: 1936252839
+      MAC_Mace_Right_Attack2_212: -1019904233
+      MAC_Mace_Right_Attack2_213: -211124833
+      MAC_Mace_Right_Attack2_214: 634897457
+      MAC_Mace_Right_Attack2_215: -2028080022
+      MAC_Mace_Right_Attack2_216: -1283070994
+      MAC_Mace_Right_Attack2_217: 1080928528
+      MAC_Mace_Right_Attack2_218: -1755243764
+      MAC_Mace_Right_Attack2_219: 991929411
+      MAC_Mace_Right_Attack2_22: -964667302
+      MAC_Mace_Right_Attack2_220: -584569427
+      MAC_Mace_Right_Attack2_221: -1018487560
+      MAC_Mace_Right_Attack2_222: 459081708
+      MAC_Mace_Right_Attack2_223: -1302743741
+      MAC_Mace_Right_Attack2_224: 246164940
+      MAC_Mace_Right_Attack2_225: -2010019270
+      MAC_Mace_Right_Attack2_226: -1223796407
+      MAC_Mace_Right_Attack2_227: 1041410021
+      MAC_Mace_Right_Attack2_228: -718268664
+      MAC_Mace_Right_Attack2_229: 1506697202
+      MAC_Mace_Right_Attack2_23: 2031250458
+      MAC_Mace_Right_Attack2_230: -1980737562
+      MAC_Mace_Right_Attack2_231: 560939499
+      MAC_Mace_Right_Attack2_232: -2109995037
+      MAC_Mace_Right_Attack2_233: -127411546
+      MAC_Mace_Right_Attack2_234: -1267810511
+      MAC_Mace_Right_Attack2_235: 514831528
+      MAC_Mace_Right_Attack2_236: -2089319894
+      MAC_Mace_Right_Attack2_237: 514757172
+      MAC_Mace_Right_Attack2_238: 444686874
+      MAC_Mace_Right_Attack2_239: -212951178
+      MAC_Mace_Right_Attack2_24: 67202758
+      MAC_Mace_Right_Attack2_25: -1646908943
+      MAC_Mace_Right_Attack2_26: 1038995889
+      MAC_Mace_Right_Attack2_27: 159753918
+      MAC_Mace_Right_Attack2_28: -1628946650
+      MAC_Mace_Right_Attack2_29: 1255070353
+      MAC_Mace_Right_Attack2_3: -2076864315
+      MAC_Mace_Right_Attack2_30: -855350707
+      MAC_Mace_Right_Attack2_31: -1921049806
+      MAC_Mace_Right_Attack2_32: 1635627046
+      MAC_Mace_Right_Attack2_33: -1833648775
+      MAC_Mace_Right_Attack2_34: 1326315197
+      MAC_Mace_Right_Attack2_35: 1162755554
+      MAC_Mace_Right_Attack2_36: 1483004232
+      MAC_Mace_Right_Attack2_37: -871741700
+      MAC_Mace_Right_Attack2_38: -1371584907
+      MAC_Mace_Right_Attack2_39: 1232377494
+      MAC_Mace_Right_Attack2_4: -2038956951
+      MAC_Mace_Right_Attack2_40: -124503435
+      MAC_Mace_Right_Attack2_41: 687783169
+      MAC_Mace_Right_Attack2_42: 1178625007
+      MAC_Mace_Right_Attack2_43: -1859168660
+      MAC_Mace_Right_Attack2_44: -876495103
+      MAC_Mace_Right_Attack2_45: 531721919
+      MAC_Mace_Right_Attack2_46: -776204967
+      MAC_Mace_Right_Attack2_47: -1868464100
+      MAC_Mace_Right_Attack2_48: -917652800
+      MAC_Mace_Right_Attack2_49: -1810415496
+      MAC_Mace_Right_Attack2_5: -1727074715
+      MAC_Mace_Right_Attack2_50: 2101406180
+      MAC_Mace_Right_Attack2_51: 503803957
+      MAC_Mace_Right_Attack2_52: 487450554
+      MAC_Mace_Right_Attack2_53: -1676480025
+      MAC_Mace_Right_Attack2_54: -82502583
+      MAC_Mace_Right_Attack2_55: 1595223190
+      MAC_Mace_Right_Attack2_56: 1537464086
+      MAC_Mace_Right_Attack2_57: -1639280455
+      MAC_Mace_Right_Attack2_58: -488006496
+      MAC_Mace_Right_Attack2_59: -1431449406
+      MAC_Mace_Right_Attack2_6: 922254394
+      MAC_Mace_Right_Attack2_60: -705426003
+      MAC_Mace_Right_Attack2_61: -491978278
+      MAC_Mace_Right_Attack2_62: -1254398285
+      MAC_Mace_Right_Attack2_63: 2113489471
+      MAC_Mace_Right_Attack2_64: 619447831
+      MAC_Mace_Right_Attack2_65: 1892446352
+      MAC_Mace_Right_Attack2_66: 1192130899
+      MAC_Mace_Right_Attack2_67: 521910314
+      MAC_Mace_Right_Attack2_68: -17504399
+      MAC_Mace_Right_Attack2_69: 1565880791
+      MAC_Mace_Right_Attack2_7: -462977097
+      MAC_Mace_Right_Attack2_70: 586319732
+      MAC_Mace_Right_Attack2_71: -179949700
+      MAC_Mace_Right_Attack2_72: 1383732476
+      MAC_Mace_Right_Attack2_73: 13006257
+      MAC_Mace_Right_Attack2_74: -2106035752
+      MAC_Mace_Right_Attack2_75: 239668552
+      MAC_Mace_Right_Attack2_76: 1342641495
+      MAC_Mace_Right_Attack2_77: -1712274533
+      MAC_Mace_Right_Attack2_78: -1087370076
+      MAC_Mace_Right_Attack2_79: 1329882824
+      MAC_Mace_Right_Attack2_8: 1242176371
+      MAC_Mace_Right_Attack2_80: 1691558292
+      MAC_Mace_Right_Attack2_81: 1933997047
+      MAC_Mace_Right_Attack2_82: 1664176258
+      MAC_Mace_Right_Attack2_83: -786504811
+      MAC_Mace_Right_Attack2_84: -902049855
+      MAC_Mace_Right_Attack2_85: 1266501268
+      MAC_Mace_Right_Attack2_86: 677183994
+      MAC_Mace_Right_Attack2_87: 2135483230
+      MAC_Mace_Right_Attack2_88: -1859729230
+      MAC_Mace_Right_Attack2_89: 1413801088
+      MAC_Mace_Right_Attack2_9: -51345928
+      MAC_Mace_Right_Attack2_90: -995620520
+      MAC_Mace_Right_Attack2_91: -857455644
+      MAC_Mace_Right_Attack2_92: -1871066680
+      MAC_Mace_Right_Attack2_93: -72208673
+      MAC_Mace_Right_Attack2_94: 2080204180
+      MAC_Mace_Right_Attack2_95: 1561892776
+      MAC_Mace_Right_Attack2_96: 1494978459
+      MAC_Mace_Right_Attack2_97: -1093902996
+      MAC_Mace_Right_Attack2_98: 164124048
+      MAC_Mace_Right_Attack2_99: -2705478
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

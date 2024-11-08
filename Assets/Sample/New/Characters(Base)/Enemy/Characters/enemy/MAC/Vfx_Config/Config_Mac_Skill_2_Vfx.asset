@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa5d5e787a502147b91da4cc406390f, type: 3}
+  m_Name: Config_Mac_Skill_2_Vfx
+  m_EditorClassIdentifier: 
+  Base_Duration: 10
+  _Animation_Part: 1
+  b_Delay_Animation: 1
+  Delay_Animation: {fileID: 7400000, guid: 331255496d5a08948b824ec98855c64c, type: 2}
+  objectsWithDelay:
+  - gameObject: {fileID: 5076575521569922359, guid: 21b9b799a679de14db99a2302c89f3e7,
+      type: 3}
+    delayTime: 2.3
+    V3_Scale: {x: 1, y: 1, z: 1}
+    V3_Child_Scale: {x: 10, y: 10, z: 10}
+    V3_Offset_Vfx: {x: -10, y: -1, z: 0}
+    V3_Fix_Position: {x: 0, y: -1, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 0}
+    b_Fix_Rotation: 1
+    Vfx_Time: 4
+    b_Down_Target: 0
+    Down_Target_Offset: {x: 0, y: 0, z: 0}
+    b_Rotate_Around: 1
+    Titik_Tengah_Start: {x: 0, y: 0, z: 0}
+    Rotate_Around_Speed: 45
+    b_Follow_Char: 0
+    b_Hide_Object: 1
+    Hide_Object_Hand_Left: 1
+    Hide_Object_Hand_Right: 0
+    b_Vfx_Damage: 1
+    Vfx_Damage_Power: 10
+    V3_Scale_Damage: {x: 0.5, y: 0.5, z: 0.5}
+    V3_Offset_Damage: {x: 0, y: 0, z: 0}
+  - gameObject: {fileID: 590129697697900971, guid: 06cc3d27432fb8f4c8987f4d856bab8c,
+      type: 3}
+    delayTime: 2.3
+    V3_Scale: {x: 1, y: 1, z: 1}
+    V3_Child_Scale: {x: 10, y: 10, z: 10}
+    V3_Offset_Vfx: {x: 10, y: -1, z: 0}
+    V3_Fix_Position: {x: 0, y: 0, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 10}
+    b_Fix_Rotation: 1
+    Vfx_Time: 4
+    b_Down_Target: 0
+    Down_Target_Offset: {x: 0, y: 0, z: 0}
+    b_Rotate_Around: 1
+    Titik_Tengah_Start: {x: 0, y: 0, z: 0}
+    Rotate_Around_Speed: 45
+    b_Follow_Char: 1
+    b_Hide_Object: 1
+    Hide_Object_Hand_Left: 0
+    Hide_Object_Hand_Right: 1
+    b_Vfx_Damage: 1
+    Vfx_Damage_Power: 10
+    V3_Scale_Damage: {x: 0.5, y: 0.5, z: 0.5}
+    V3_Offset_Damage: {x: 0, y: 0, z: 0}

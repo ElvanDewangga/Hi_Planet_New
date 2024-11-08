@@ -1,0 +1,81 @@
+C# :
+1. Char_Data 
+- Is a base script that use for instantiate Player, Enemy that have (Char_Utama) script.
+- Char Data have some GameObject that use for Instantiate in other script.
+
+2. Char_Data_Bonus_Point
+- Is a script that have mechanism for Bonus Point System
+
+3. Char_Data_Equipment
+- Is a script that have mechanism for Equipment System, if you found bug about equipment (you can check here)
+
+4. Char_Data_Hit
+- Is a script that have mechanism for Hit vfx System, if you found bug about Hit vfx system (you can check here)
+
+4.1. Char_Data_Hit_Settings
+- You can add (Config_Char_Hit) in here for every Hit Gameobject to play configuration Hit Vfx system
+
+5. Char_Data_Variant_Attack
+- Char_Data_Variant_Attack is logic that use for [Object Variant Config] (Vfx Configuration). you can found all logic for this configuration here.
+
+5.1. Object_Variant_Config
+- You can add some Vfx variable settings here
+
+5.2. Config_Light_Setup
+- You can add some light variable settings here
+- Logic on (Logic_Light_Setup)
+
+5.3. Config_Vfx_Down_Target
+- You can add custom Vfx_Down_Target here. this is use for Meteor Skill
+
+6. Char_Data_Level
+- Dictionary or base mechanism for Level and Exp
+
+7. Char_Pack
+- To use this, you can add some gameobject (hi, claw_bot, etc) in Hierarchy then you can add this script. You can set up Life, Defense, Attack, Speed, Technique in here
+
+7.1. Char_Pack_Accesories
+- To avoid miss position on Accesories
+
+7.2. A_Aseprite
+- To use this, you can add to character, and add some variable Child_Animator (Hand,Body) and Rotation Object (2 Hands) it will be use for access rotate object other scripts (Char_Utama_Source, Char_Data_Variant_Attack, & Char_Animation)
+
+7.3.Char_Skin
+- Use for changing skin likes Hi that use Electromagnetic_Barrier.
+
+7.4. Part_Aseprite
+- Use for create 2 diffirents ways that use for static and Dynamic Body / Hand.
+
+8. Char_Utama
+- All characters have some Char_Utama. Char_Utama is use for Base Script on Characters that have so many access in Parent character's component.
+
+8.1. Char_Level
+- Mechanicsm level for character
+
+8.2 Char_Status
+- Mechanicsm status for character (Hp, Atk, Def, Speed) Point of a character, Damage, Defeat you can found here. 
+
+8.3 Char_Body_Component
+- Mechanicsm for Body Component (Body and hand)
+
+8.4 Char_Animation
+- Mechanicsm for character's animation, any found bug about animation, you can check up here
+
+8.5 Char_Attack
+- Mechanicsm for Character Attack
+
+8.6 Char_Technique
+- Mechanicsm for Character Technique.
+
+8.7. Aiming_Direction
+- Mechanicsm aiming
+
+9. Skill_Effect_Setup
+- Variable for Skill Effect for Example (Heal + 25, Def +25, etc).
+
+
+
+
+
+
+

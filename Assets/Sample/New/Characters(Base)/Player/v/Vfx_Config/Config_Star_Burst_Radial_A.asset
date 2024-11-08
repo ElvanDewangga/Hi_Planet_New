@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0fa5d5e787a502147b91da4cc406390f, type: 3}
+  m_Name: Config_Star_Burst_Radial_A
+  m_EditorClassIdentifier: 
+  Base_Duration: 5
+  objectsWithDelay:
+  - gameObject: {fileID: 9001074547537973768, guid: 0c1415f6d5b5112469192d9ed2d206fe,
+      type: 3}
+    delayTime: 0
+    V3_Scale: {x: 3, y: 3, z: 3}
+    V3_Offset_Vfx: {x: 0, y: 0, z: 0}
+    V3_Fix_Position: {x: 0.1, y: 0, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 0}
+    b_Fix_Rotation: 0
+    Vfx_Time: 5
+    b_Down_Target: 0
+    Down_Target_Offset: {x: 0, y: 0, z: 0}
+    b_Rotate_Around: 0
+    Titik_Tengah_Start: {x: 0, y: 0, z: 0}
+    Rotate_Around_Speed: 0
+    b_Follow_Char: 0
+    b_Hide_Object: 0
+    Hide_Object_Hand_Left: 0
+    Hide_Object_Hand_Right: 0
+    V3_Child_Scale: {x: 0, y: 0, z: 0}
+  - gameObject: {fileID: 7480022217276428070, guid: fc65d2d8f7f21df4fa9ff873995418f8,
+      type: 3}
+    delayTime: 1
+    V3_Scale: {x: 5, y: 5, z: 5}
+    V3_Offset_Vfx: {x: 0, y: 0, z: 0}
+    V3_Fix_Position: {x: 0.3, y: 0, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 0}
+    b_Fix_Rotation: 0
+    Vfx_Time: 5
+    b_Down_Target: 0
+    Down_Target_Offset: {x: 0, y: 0, z: 0}
+    b_Rotate_Around: 0
+    Titik_Tengah_Start: {x: 0, y: 0, z: 0}
+    Rotate_Around_Speed: 0
+    b_Follow_Char: 0
+    b_Hide_Object: 0
+    Hide_Object_Hand_Left: 0
+    Hide_Object_Hand_Right: 0
+    V3_Child_Scale: {x: 10, y: 10, z: 10}
+  - gameObject: {fileID: 8708493875055138853, guid: a5f701fb6b1189244974373babc2985f,
+      type: 3}
+    delayTime: 2
+    V3_Scale: {x: 7, y: 7, z: 7}
+    V3_Offset_Vfx: {x: 0, y: 0, z: 0}
+    V3_Fix_Position: {x: 0.5, y: 0, z: 0}
+    V3_Rotation: {x: 0, y: 0, z: 0}
+    b_Fix_Rotation: 0
+    Vfx_Time: 5
+    b_Down_Target: 0
+    Down_Target_Offset: {x: 0, y: 0, z: 0}
+    b_Rotate_Around: 0
+    Titik_Tengah_Start: {x: 0, y: 0, z: 0}
+    Rotate_Around_Speed: 0
+    b_Follow_Char: 0
+    b_Hide_Object: 0
+    Hide_Object_Hand_Left: 0
+    Hide_Object_Hand_Right: 0
+    V3_Child_Scale: {x: 10, y: 10, z: 10}

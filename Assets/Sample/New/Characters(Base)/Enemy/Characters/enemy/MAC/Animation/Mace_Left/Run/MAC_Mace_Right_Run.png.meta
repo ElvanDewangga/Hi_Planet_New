@@ -1,0 +1,2696 @@
+fileFormatVersion: 2
+guid: 9f880ec75399a754fb55e86b57ac3b9b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4db3832a4d2f2d45926828de5c6327d
+      internalID: -203922700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147be62a2d7613245b425f39e4a8c9ac
+      internalID: -1500362976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75172071da8d7546ae79127edfeb7e8
+      internalID: 1231330984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5a72a3491026b479e171ac865bd6cf
+      internalID: -1783470391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafc8fce3081ed1408d70f3191cb29c7
+      internalID: -226445938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_5
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ad3fcac5f231488d78c41a1b57213
+      internalID: -2139560950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_6
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ddeef6cfc26f54b91838877481f137
+      internalID: -915952392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49eccff8217d66943b1aaf6ccbed9c64
+      internalID: -1614284683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_8
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46fa189d512f134485ba9f8bc7680f0
+      internalID: 107549457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61409ee53b6f7874093f46350660d2f3
+      internalID: 1879385573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_10
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66d9760d8d0754e96ed1c22a4832b0
+      internalID: -1345063589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_11
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2fe079eadafd74197eb301a8167452
+      internalID: -1767831203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_12
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa0c45d76fdd17649a40a0745ebad44b
+      internalID: 266454461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_13
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6123fe6e9edc09b419fe1c650ae717a2
+      internalID: -298652814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_14
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8495f4bc0fa367240bd0b25da793cd2d
+      internalID: -1158237102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_15
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 812
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d99077a3cfc53f4fb76a203132e66f2
+      internalID: 1111915091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c00d0510d504b4469e0ca8b3f915201
+      internalID: 210328182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceba7a8bdc203ec4a8f8142ba0997eb2
+      internalID: -1858771071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_18
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02fa2679c0319f4aa1679e420cdfc7c
+      internalID: -1075529949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_19
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22060e071d06ce45a12951580cc8da4
+      internalID: -1561457012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ad6db1447f7394daaa13a8fab5dfae
+      internalID: -621770516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207124676f370d845bd9fc50354f11bc
+      internalID: 1286177894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_22
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6825440a1a39e4ca186e02c03d7fe8
+      internalID: 1412139516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_23
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fabc4dd6df8f5744bb69e6abecea8ac
+      internalID: 1231151502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_24
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00c9a5b89491704c8d733476c7be61c
+      internalID: 818740608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_25
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cfba722356154489cadc548757a871
+      internalID: -509721457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_26
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58aacf70abadd7f44ad493fe79f5fedd
+      internalID: 768544200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_27
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19cc1ce2be7b00447b1d42db0efc334e
+      internalID: 1771825941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_28
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1ae6999b7551e4bb0b8086a4ef61bb
+      internalID: 1690621560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_29
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af101cf3dc20c3842bf3642daebae781
+      internalID: -1671828953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_30
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bf1bce10d46f884da335456b4267524
+      internalID: -2090556505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_31
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 696
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d227a521f3ed27440bc14ec430f911d0
+      internalID: 1814991477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04116dbc6b73c9e4d98cef7ca80b8126
+      internalID: 2111705229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b94b959fefced649bf5cb9485be1787
+      internalID: 1123791727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc8815e25e8d4f4b9b4e07c16bec9b1
+      internalID: 1109580739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b3c92f1d6a23b4b89bc3e33208b6ca
+      internalID: -1785419389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_36
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e0ca94af5bd88428de21798a4e0c87
+      internalID: 1114255530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed701f99240b314284798903302ab58
+      internalID: -943911688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f5caa6c8fd15d42b6b3b7e776fbc03
+      internalID: 1534678421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_39
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acead2a649b806e44aa213bbb63d20ce
+      internalID: 1196285273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3af60811b176046b98c19ec36fca38
+      internalID: -2006841285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_41
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5722b67c7f827c4ca0cb09a5e0d612d
+      internalID: 677187500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfbc57b4c67ca7429d9b20f6affa4ea
+      internalID: 885570075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_43
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37d90882b345d84489c890df7911867
+      internalID: -191402634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_44
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bb2104b1ee5b2459e4ee0025ae9551
+      internalID: -1497360991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_45
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70948053aa2cbe41a080105020606eb
+      internalID: -297848960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_46
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fca4235159f57544faf0fbe1e42ff5d1
+      internalID: 630216883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_47
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 580
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dccca711f5057c4299e0c754aa43d80
+      internalID: 76525087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1841b45f520b44f93db2ee42cc7207
+      internalID: 1593592445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6935186e0fb52f2439179125a05d5023
+      internalID: -619282485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_50
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2629d5de570bb49b25d367fdb5f94a
+      internalID: 1617651349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be9493d01496604892fe5db967d0678
+      internalID: 506760433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_52
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e48b1394061b34f8fd6ac7d508243e
+      internalID: 362983316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c9f50d3ee9cc9438d5b3a00025ad71
+      internalID: -2115541846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_54
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c491c0ef36af9e47940f2a58583c7f5
+      internalID: -2088512428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_55
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5948b39ace68341489c90ab29dbf4311
+      internalID: 293592980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_56
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40faecdd392ed04b97266eb01aa088a
+      internalID: -589583656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_57
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c692b8513a73345bfc4cae234c87e7
+      internalID: 137270613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_58
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0769985a988f90540b5700130466fc6a
+      internalID: 809466385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_59
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4679f317703158448b2728805a09a080
+      internalID: -517587546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_60
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6e3bf5356d4344baa8878820e6ef6c
+      internalID: -1411451400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_61
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf37314bcff86cb4cadf920c82c6037a
+      internalID: -506485244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_62
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d949fde2c8d6f1e42a81e29382fcb9ae
+      internalID: -1934352737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_63
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 464
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32df4da5c02bb14fae6c386f88d9feb
+      internalID: -1904381157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7e379d52e8f5c47bdec1f462422f1f
+      internalID: -1271060240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d50b503b2556842a1369ad64df799c
+      internalID: 1884809260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18f53106e4356d43980a3525c686534
+      internalID: 59709074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_67
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5d79231d5c6994f958b55d154eff53
+      internalID: 1911896356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_68
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef7e404e5d14294eb973f658a708496
+      internalID: 1568905250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_69
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971127aacbf06f4b823dc50dc743b89
+      internalID: -798573854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_70
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd7c2493636a21469609eea8a8f1ba5
+      internalID: 92821557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_71
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db98f23290d853b46913f773a715e312
+      internalID: 741402612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_72
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd579cd2280e10b479438659279a54fc
+      internalID: -576874512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_73
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8e0128e8e7cb34195f13eefbc4c6bb
+      internalID: -743265011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_74
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c73adc41f8be94291bc9703417084e
+      internalID: 917873291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_75
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261540c1d2172a4492bc43fa4a6e11a
+      internalID: -227872161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_76
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dd8469a9321d14eb969ec329391d71
+      internalID: -1389076574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_77
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f1d721f0b3ddc418cdf92d6c545e7d
+      internalID: 646437663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_78
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7674c5cce72731b408d0ec91f7f83ec3
+      internalID: 538954482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_79
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 348
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6912dda2564442bad9b2ffa05310d
+      internalID: 1879966616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177ac408c607401428390f0fa596f404
+      internalID: -453511863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_81
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7135c72d309b834dbdd6ea84c9ae6de
+      internalID: -1391553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2992f980bf0097447b837e1bb7960b2b
+      internalID: 566047257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_83
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3e468db74ebfb46bc797ddffed3a4e
+      internalID: 678462799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_84
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a802cd7fcd035af4194775939b75874b
+      internalID: -1755651886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_85
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f018d522c0fc0f545a6e6d0fa3543fe6
+      internalID: 712587476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_86
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afff16ca6825b2f4a881a330d5313ef2
+      internalID: 1332658187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_87
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14889b447f12ab449986dd1b48168a0d
+      internalID: -784447893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_88
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00143c7eacedbcd479a2f83275495fee
+      internalID: 37259270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_89
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61592d33994d1b14aba742964fe9dfef
+      internalID: 1241695257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_90
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a642e5a06cb4e24995ca58a4044f005
+      internalID: 656056704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_91
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc8ac65440509f4d80f7f55e41488fb
+      internalID: 1740698114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_92
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0810a6ae3e4a25249a85c3f6b76de641
+      internalID: -444938963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_93
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e335ae5ba3e9a40b779129832c67fd
+      internalID: 347681695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_94
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823a6833d53b06147b5a9a93752512dd
+      internalID: -170205063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_95
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 232
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3da8fde0c38a0449b29adf1cd84448
+      internalID: 598226535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e682c955c90ac914985b4dff8000a934
+      internalID: 1770319111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_97
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5077eaf7cdce4ab5f620163aabaff
+      internalID: -827923027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c89c592fa272c49a7ea182afb8a52e
+      internalID: -712914637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95eab3fe3ec080145bd410e235113597
+      internalID: -2088279156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_100
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc83bd2b1b3f2e24f899d6ebea76ec72
+      internalID: -1001941265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_101
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6481926fd890f5942b1e8e2c47917df6
+      internalID: -614677019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_102
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba1ebb9b8665f2439872035b1780b20
+      internalID: 2100871463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_103
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767f953af636c5b49aecf6a484c30c44
+      internalID: -1570571199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_104
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0688ead2ce23f4a48a6a96768dea8f43
+      internalID: 1811712124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_105
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d38df38767da684fb2b255332ef871d
+      internalID: -1204271747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_106
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee76dbf25572d74ea13cd5ff3bc82ea
+      internalID: 901626060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_107
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3c028abfb3f9f49b06a541149f147a
+      internalID: 403537645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_108
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5e6148b834cbb4ba2e4f8ba0873908
+      internalID: 1242635473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_109
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961e647a3f57a9449878aaea8e1986b3
+      internalID: -1000333485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_110
+      rect:
+        serializedVersion: 2
+        x: 2240
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadf1aeac214974693e8c21b2323fec
+      internalID: -1623669372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_111
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 116
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ac307815ae5e4e86c99eab1525906
+      internalID: -1167374070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afe3d57fd5480d4a807f8cf709f1c8e
+      internalID: -435306646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_113
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e92e6f2f6594b4d8194464113c0ffa
+      internalID: 997359767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MAC_Mace_Right_Run_114
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 160
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055b1004d95931944bf873afdce128f8
+      internalID: -1539351756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e466e3930ad83004b9ba00f9d70dbddc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MAC_Mace_Right_Run_0: -203922700
+      MAC_Mace_Right_Run_1: -1500362976
+      MAC_Mace_Right_Run_10: -1345063589
+      MAC_Mace_Right_Run_100: -1001941265
+      MAC_Mace_Right_Run_101: -614677019
+      MAC_Mace_Right_Run_102: 2100871463
+      MAC_Mace_Right_Run_103: -1570571199
+      MAC_Mace_Right_Run_104: 1811712124
+      MAC_Mace_Right_Run_105: -1204271747
+      MAC_Mace_Right_Run_106: 901626060
+      MAC_Mace_Right_Run_107: 403537645
+      MAC_Mace_Right_Run_108: 1242635473
+      MAC_Mace_Right_Run_109: -1000333485
+      MAC_Mace_Right_Run_11: -1767831203
+      MAC_Mace_Right_Run_110: -1623669372
+      MAC_Mace_Right_Run_111: -1167374070
+      MAC_Mace_Right_Run_112: -435306646
+      MAC_Mace_Right_Run_113: 997359767
+      MAC_Mace_Right_Run_114: -1539351756
+      MAC_Mace_Right_Run_12: 266454461
+      MAC_Mace_Right_Run_13: -298652814
+      MAC_Mace_Right_Run_14: -1158237102
+      MAC_Mace_Right_Run_15: 1111915091
+      MAC_Mace_Right_Run_16: 210328182
+      MAC_Mace_Right_Run_17: -1858771071
+      MAC_Mace_Right_Run_18: -1075529949
+      MAC_Mace_Right_Run_19: -1561457012
+      MAC_Mace_Right_Run_2: 1231330984
+      MAC_Mace_Right_Run_20: -621770516
+      MAC_Mace_Right_Run_21: 1286177894
+      MAC_Mace_Right_Run_22: 1412139516
+      MAC_Mace_Right_Run_23: 1231151502
+      MAC_Mace_Right_Run_24: 818740608
+      MAC_Mace_Right_Run_25: -509721457
+      MAC_Mace_Right_Run_26: 768544200
+      MAC_Mace_Right_Run_27: 1771825941
+      MAC_Mace_Right_Run_28: 1690621560
+      MAC_Mace_Right_Run_29: -1671828953
+      MAC_Mace_Right_Run_3: -1783470391
+      MAC_Mace_Right_Run_30: -2090556505
+      MAC_Mace_Right_Run_31: 1814991477
+      MAC_Mace_Right_Run_32: 2111705229
+      MAC_Mace_Right_Run_33: 1123791727
+      MAC_Mace_Right_Run_34: 1109580739
+      MAC_Mace_Right_Run_35: -1785419389
+      MAC_Mace_Right_Run_36: 1114255530
+      MAC_Mace_Right_Run_37: -943911688
+      MAC_Mace_Right_Run_38: 1534678421
+      MAC_Mace_Right_Run_39: 1196285273
+      MAC_Mace_Right_Run_4: -226445938
+      MAC_Mace_Right_Run_40: -2006841285
+      MAC_Mace_Right_Run_41: 677187500
+      MAC_Mace_Right_Run_42: 885570075
+      MAC_Mace_Right_Run_43: -191402634
+      MAC_Mace_Right_Run_44: -1497360991
+      MAC_Mace_Right_Run_45: -297848960
+      MAC_Mace_Right_Run_46: 630216883
+      MAC_Mace_Right_Run_47: 76525087
+      MAC_Mace_Right_Run_48: 1593592445
+      MAC_Mace_Right_Run_49: -619282485
+      MAC_Mace_Right_Run_5: -2139560950
+      MAC_Mace_Right_Run_50: 1617651349
+      MAC_Mace_Right_Run_51: 506760433
+      MAC_Mace_Right_Run_52: 362983316
+      MAC_Mace_Right_Run_53: -2115541846
+      MAC_Mace_Right_Run_54: -2088512428
+      MAC_Mace_Right_Run_55: 293592980
+      MAC_Mace_Right_Run_56: -589583656
+      MAC_Mace_Right_Run_57: 137270613
+      MAC_Mace_Right_Run_58: 809466385
+      MAC_Mace_Right_Run_59: -517587546
+      MAC_Mace_Right_Run_6: -915952392
+      MAC_Mace_Right_Run_60: -1411451400
+      MAC_Mace_Right_Run_61: -506485244
+      MAC_Mace_Right_Run_62: -1934352737
+      MAC_Mace_Right_Run_63: -1904381157
+      MAC_Mace_Right_Run_64: -1271060240
+      MAC_Mace_Right_Run_65: 1884809260
+      MAC_Mace_Right_Run_66: 59709074
+      MAC_Mace_Right_Run_67: 1911896356
+      MAC_Mace_Right_Run_68: 1568905250
+      MAC_Mace_Right_Run_69: -798573854
+      MAC_Mace_Right_Run_7: -1614284683
+      MAC_Mace_Right_Run_70: 92821557
+      MAC_Mace_Right_Run_71: 741402612
+      MAC_Mace_Right_Run_72: -576874512
+      MAC_Mace_Right_Run_73: -743265011
+      MAC_Mace_Right_Run_74: 917873291
+      MAC_Mace_Right_Run_75: -227872161
+      MAC_Mace_Right_Run_76: -1389076574
+      MAC_Mace_Right_Run_77: 646437663
+      MAC_Mace_Right_Run_78: 538954482
+      MAC_Mace_Right_Run_79: 1879966616
+      MAC_Mace_Right_Run_8: 107549457
+      MAC_Mace_Right_Run_80: -453511863
+      MAC_Mace_Right_Run_81: -1391553794
+      MAC_Mace_Right_Run_82: 566047257
+      MAC_Mace_Right_Run_83: 678462799
+      MAC_Mace_Right_Run_84: -1755651886
+      MAC_Mace_Right_Run_85: 712587476
+      MAC_Mace_Right_Run_86: 1332658187
+      MAC_Mace_Right_Run_87: -784447893
+      MAC_Mace_Right_Run_88: 37259270
+      MAC_Mace_Right_Run_89: 1241695257
+      MAC_Mace_Right_Run_9: 1879385573
+      MAC_Mace_Right_Run_90: 656056704
+      MAC_Mace_Right_Run_91: 1740698114
+      MAC_Mace_Right_Run_92: -444938963
+      MAC_Mace_Right_Run_93: 347681695
+      MAC_Mace_Right_Run_94: -170205063
+      MAC_Mace_Right_Run_95: 598226535
+      MAC_Mace_Right_Run_96: 1770319111
+      MAC_Mace_Right_Run_97: -827923027
+      MAC_Mace_Right_Run_98: -712914637
+      MAC_Mace_Right_Run_99: -2088279156
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

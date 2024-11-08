@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe04bdc5269ec5545ad4b7927a2f531d, type: 3}
+  m_Name: 4d_Glass
+  m_EditorClassIdentifier: 
+  Id: 4
+  Quantity: 0
+  _Item_Input:
+    Name: 4D Glass
+    Type: Helmet
+    Item_Sprite: {fileID: 1398862394, guid: f293b74278029e342bf4e455026dccea, type: 3}
+    Item_Detail: This glass is used to see cinema 4d.
+    Max_Quantity: 1
+    L_Item_Effect:
+    - Code_Effect:
+      - Life
+      Code_Value: 0a000000
+    _Item_Display:
+      V3_Local_Position: {x: 0.004, y: -0.004, z: -0.00189991}
+      V3_localRotation: {x: 0, y: 0, z: 0}
+      V3_Local_Scale: {x: 1, y: 1.1, z: 1}
